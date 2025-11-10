@@ -1,0 +1,201 @@
+category,technology,usage_all
+
+Programming and scripting and markup languages, JavaScript, 66
+Programming and scripting and markup languages, HTML/CSS, 61.9
+Programming and scripting and markup languages, SQL, 58.6
+Programming and scripting and markup languages, Python, 57.9
+Programming and scripting and markup languages, Bash/Shell, 48.7
+Programming and scripting and markup languages, TypeScript, 43.6
+Programming and scripting and markup languages, Java, 29.4
+Programming and scripting and markup languages, C#, 27.8
+Programming and scripting and markup languages, C++, 23.5
+Programming and scripting and markup languages, PowerShell, 23.2
+Programming and scripting and markup languages, C, 22
+Programming and scripting and markup languages, PHP, 18.9
+Programming and scripting and markup languages, Go, 16.4
+Programming and scripting and markup languages, Rust, 14.8
+Programming and scripting and markup languages, Kotlin, 10.8
+Programming and scripting and markup languages, Lua, 9.2
+Programming and scripting and markup languages, Assembly, 7.1
+Programming and scripting and markup languages, Ruby, 6.4
+Programming and scripting and markup languages, Dart, 5.9
+Programming and scripting and markup languages, Swift, 5.4
+
+Databases, PostgreSQL, 55.6
+Databases, MySQL, 40.5
+Databases, SQLite, 37.5
+Databases, Microsoft SQL Server, 30.1
+Databases, Redis, 28
+Databases, MongoDB, 24
+Databases, MariaDB, 22.5
+Databases, Elasticsearch, 16.7
+Databases, Oracle, 10.6
+Databases, Dynamodb, 9.8
+Databases, BigQuery, 6.5
+Databases, Supabase, 6
+Databases, Cloud Firestore, 5.7
+Databases, H2, 5
+Databases, Firebase Realtime Database, 5
+Databases, Microsoft Access, 4.8
+Databases, Cosmos DB, 4.6
+Databases, Snowflake, 4.1
+Databases, InfluxDB, 3.7
+Databases, Databricks SQL, 3.4
+
+Cloud development, Docker, 71.1
+Cloud development, npm, 56.8
+Cloud development, Amazon Web Services (AWS), 43.3
+Cloud development, Pip, 40.9
+Cloud development, Kubernetes, 28.5
+Cloud development, Microsoft Azure, 26.3
+Cloud development, Homebrew, 25.7
+Cloud development, Vite, 25.4
+Cloud development, Google Cloud, 24.6
+Cloud development, Make, 23.2
+Cloud development, Yarn, 21.1
+Cloud development, Cloudflare, 20.1
+Cloud development, NuGet, 18.9
+Cloud development, APT, 18.4
+Cloud development, Webpack, 18.4
+Cloud development, Terraform, 17.8
+Cloud development, Maven (build tool), 16.4
+Cloud development, Cargo, 14.4
+Cloud development, Gradle, 14.4
+Cloud development, pnpm, 13.4
+
+Web frameworks and technologies, Node.js, 48.7
+Web frameworks and technologies, React, 44.7
+Web frameworks and technologies, jQuery, 23.4
+Web frameworks and technologies, Next.js, 20.8
+Web frameworks and technologies, Express, 19.9
+Web frameworks and technologies, ASP.NET Core, 19.7
+Web frameworks and technologies, Angular, 18.2
+Web frameworks and technologies, Vue.js, 17.6
+Web frameworks and technologies, FastAPI, 14.8
+Web frameworks and technologies, Spring Boot, 14.7
+Web frameworks and technologies, Flask, 14.4
+Web frameworks and technologies, ASP.NET, 14.2
+Web frameworks and technologies, WordPress, 13.6
+Web frameworks and technologies, Django, 12.6
+Web frameworks and technologies, Laravel, 8.9
+Web frameworks and technologies, AngularJS, 7.2
+Web frameworks and technologies, Svelte, 7.2
+Web frameworks and technologies, Blazor, 7
+Web frameworks and technologies, NestJS, 6.7
+Web frameworks and technologies, Ruby on Rails, 5.9
+
+Dev IDEs, Visual Studio Code, 75.9
+Dev IDEs, Visual Studio, 29
+Dev IDEs, Notepad++, 27.4
+Dev IDEs, IntelliJ IDEA, 27.1
+Dev IDEs, Vim, 24.3
+Dev IDEs, Cursor, 17.9
+Dev IDEs, PyCharm, 15
+Dev IDEs, Android Studio, 15
+Dev IDEs, Jupyter Nb/JupyterLab, 14.1
+Dev IDEs, Neovim, 14
+Dev IDEs, Nano, 12.2
+Dev IDEs, Sublime Text, 10.5
+Dev IDEs, Xcode, 10
+Dev IDEs, Claude Code, 9.7
+Dev IDEs, WebStorm, 7.6
+Dev IDEs, Zed, 7.3
+Dev IDEs, Rider, 7.1
+Dev IDEs, Eclipse, 7.1
+Dev IDEs, VSCodium, 6.2
+Dev IDEs, PhpStorm, 5.8
+
+Stack Overflow tags, Google Gemini, 29.2
+Stack Overflow tags, Large language model, 27.6
+Stack Overflow tags, Tailwind CSS 4, 21.8
+Stack Overflow tags, .NET 8+, 19.2
+Stack Overflow tags, Ollama, 15.3
+Stack Overflow tags, RAG, 10.6
+Stack Overflow tags, Pydantic, 10.1
+Stack Overflow tags, uv, 9.5
+Stack Overflow tags, Shadcn/ui, 8.7
+Stack Overflow tags, C++23, 7.3
+Stack Overflow tags, Amazon Bedrock, 4.7
+Stack Overflow tags, Polars, 3.8
+Stack Overflow tags, LangGraph, 3
+Stack Overflow tags, Hostinger, 2.8
+Stack Overflow tags, Microsoft Fabric, 2.4
+Stack Overflow tags, Odoo, 2.1
+Stack Overflow tags, Delphi 12+ Athens, 1.9
+Stack Overflow tags, SwiftData, 1.7
+Stack Overflow tags, Ultralytics, 1.2
+Stack Overflow tags, visionOS, 0.9
+
+Community platforms, Stack Overflow, 84.2
+Community platforms, GitHub (public), 66.9
+Community platforms, YouTube, 60.5
+Community platforms, Reddit, 53.7
+Community platforms, Stack Exchange, 46.5
+Community platforms, Discord, 38.9
+Community platforms, LinkedIn, 37.2
+Community platforms, Medium, 29.3
+Community platforms, Hacker News, 19.6
+Community platforms, X, 17.1
+Community platforms, Slack (public), 15.7
+Community platforms, Dev.to, 11.5
+Community platforms, Bluesky, 10.8
+Community platforms, Twitch, 8.9
+Community platforms, Substack, 7.1
+Community platforms, Company forum, 6.2
+Community platforms, Kaggle, 4.3
+Community platforms, Hashnode, 1.2
+
+Large language models, OpenAI GPT, 81.4
+Large language models, Claude Sonnet, 42.8
+Large language models, Gemini Flash, 35.3
+Large language models, OpenAI Reasoning, 34.6
+Large language models, OpenAI Image, 26.6
+Large language models, Gemini Reasoning, 25.6
+Large language models, DeepSeek Reasoning, 23.3
+Large language models, Meta Llama, 17.8
+Large language models, DeepSeek General, 14.3
+Large language models, X Grok, 11.1
+Large language models, Mistral, 10.4
+Large language models, Perplexity Sonar, 7.6
+Large language models, Alibaba Qwen, 5.2
+Large language models, Microsoft Phi-4 models, 5
+Large language models, Amazon Titan models, 1.7
+Large language models, Cohere: Command A, 0.8
+Large language models, Reka (Flash 3 or other Reka models), 0.4
+
+Code documentation and collaboration tools, GitHub, 81.1
+Code documentation and collaboration tools, Jira, 46.4
+Code documentation and collaboration tools, GitLab, 35.6
+Code documentation and collaboration tools, Markdown File, 34.8
+Code documentation and collaboration tools, Confluence, 32.8
+Code documentation and collaboration tools, Azure Devops, 16.6
+Code documentation and collaboration tools, Notion, 16.5
+Code documentation and collaboration tools, Obsidian, 16.1
+Code documentation and collaboration tools, Google Workspace, 15.2
+Code documentation and collaboration tools, Miro, 14.3
+Code documentation and collaboration tools, Trello, 13.7
+Code documentation and collaboration tools, Wikis, 10.4
+Code documentation and collaboration tools, Google Colab, 7
+Code documentation and collaboration tools, Lucid (includes Lucidchart), 5.3
+Code documentation and collaboration tools, Asana, 4.4
+Code documentation and collaboration tools, Doxygen, 4.3
+Code documentation and collaboration tools, Clickup, 3.9
+Code documentation and collaboration tools, Linear, 3.7
+Code documentation and collaboration tools, Microsoft Planner, 2.9
+Code documentation and collaboration tools, Monday.com, 2.6
+
+Computer operating systems, Windows, 56.7
+Computer operating systems, MacOS, 32.7
+Computer operating systems, Android, 29.1
+Computer operating systems, Ubuntu, 27.8
+Computer operating systems, iOS, 18.9
+Computer operating systems, Linux (non-WSL), 17.6
+Computer operating systems, Windows Subsystem for Linux (WSL), 15.9
+Computer operating systems, Debian, 11.4
+Computer operating systems, Arch, 9.7
+Computer operating systems, iPadOS, 8.1
+Computer operating systems, Fedora, 5.8
+Computer operating systems, Red Hat, 1.8
+Computer operating systems, NixOS, 3.4
+Computer operating systems, Pop!_OS, 2.3
+Computer operating systems, ChromeOS, 2.3
